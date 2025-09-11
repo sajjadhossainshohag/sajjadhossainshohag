@@ -1,14 +1,10 @@
-# Hi 👋, I'm [Your Full Name]
+# Hey, I'm Sajjad Hossain Shohag
 
-💻 Full-Stack Developer | 🚀 AI & FinTech Enthusiast | 🌍 Based in [Your Country]  
-
-I specialize in building **scalable web applications, trading systems, and AI-powered tools** using modern technologies. Passionate about solving complex problems and delivering clean, maintainable code.
+I specialize in building **scalable web applications** using modern technologies. Passionate about solving complex problems and delivering clean, maintainable code and well-performing app.
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently working on **multi-wallet payment & trading systems**
-- 🌱 Learning more about **AI integrations & cloud-native apps**
 - ⚡ Strong experience in **Laravel, React, Next.js, and API development**
 - 💡 Interested in **FinTech, SaaS platforms, and AI products**
 - 🎯 Goal: Build impactful products that help businesses scale
@@ -18,13 +14,13 @@ I specialize in building **scalable web applications, trading systems, and AI-po
 ## 🛠 Tech Stack
 
 **Languages & Frameworks**  
-- PHP (Laravel), JavaScript/TypeScript (React, Next.js), Python  
+- PHP (Laravel), JavaScript (React, Next.js)  
 
 **Databases**  
-- MySQL, PostgreSQL, MongoDB  
+- MySQL, PostgreSQL, MySQLite  
 
 **Tools & DevOps**  
-- Docker, GitHub Actions, Linux, Nginx, Redis  
+- Docker, GitHub Actions, Linux, Nginx, Apache, Redis  
 
 **Others**  
 - REST APIs, WebSockets, Payment Gateway Integrations  
@@ -32,15 +28,13 @@ I specialize in building **scalable web applications, trading systems, and AI-po
 ---
 
 ## 📊 GitHub Highlights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjadhossainshoahg&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadhossainshoahg&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌍 Connect With Me
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
 - 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 📧 Email: your@email.com  
 
 ---
 
