@@ -28,7 +28,6 @@ I specialize in building **scalable web applications** using modern technologies
 ---
 
 ## 📊 GitHub Highlights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjadhossainshohag&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadhossainshohag&layout=compact&theme=tokyonight)
 
 ---
