@@ -1,6 +1,8 @@
 # Hey, I'm Sajjad Hossain Shohag
 
-I specialize in building **scalable web applications** using modern technologies. Passionate about solving complex problems and delivering clean, maintainable code and well-performing app.
+I am a **full-stack web developer** with a strong focus on building **scalable, high-performance applications**. I have extensive experience in **Laravel, React, Next.js, and API development**, and I thrive on solving complex technical challenges.  
+
+Passionate about **FinTech, SaaS platforms, and AI-driven products**, I combine clean, maintainable code with modern DevOps practices to deliver robust solutions. My goal is to **create impactful products that help businesses grow and scale efficiently**.
 
 ---
 
@@ -8,22 +10,23 @@ I specialize in building **scalable web applications** using modern technologies
 - ⚡ Strong experience in **Laravel, React, Next.js, and API development**
 - 💡 Interested in **FinTech, SaaS platforms, and AI products**
 - 🎯 Goal: Build impactful products that help businesses scale
-
 ---
 
 ## 🛠 Tech Stack
 
 **Languages & Frameworks**  
-- PHP (Laravel), JavaScript (React, Next.js)  
+- PHP (Laravel), JavaScript (React, Next.js), Livewire
 
 **Databases**  
 - MySQL, PostgreSQL, MySQLite  
 
 **Tools & DevOps**  
-- Docker, GitHub Actions, Linux, Nginx, Apache, Redis  
+- Docker, GitHub Actions
+- Nginx, Apache, Linux Servers, Redis, Memcached  
+- AWS (EC2, S3, RDS), DigitalOcean, Cloudflare   
 
 **Others**  
-- REST APIs, WebSockets, Payment Gateway Integrations  
+- REST APIs, WebSockets, Payment Gateway Integrations, SSL/TLS, Caching & Load Balancing
 
 ---
 
