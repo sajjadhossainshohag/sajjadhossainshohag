@@ -38,8 +38,8 @@ I am a **full-stack web developer** with a strong focus on building **scalable, 
 ---
 
 ## 🌍 Connect With Me
-- 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/sajjadhossainshohag)  
+- LinkedIn: [Visit My Profile](https://linkedin.com/in/sajjadhossainshohag)  
 
 ---
 
-✨ _Open to full-time roles & freelance projects — let’s build something amazing together!_ ✨
+ Open to full-time roles & freelance projects — let’s build something amazing together!_
