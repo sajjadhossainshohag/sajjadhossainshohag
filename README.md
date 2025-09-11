@@ -8,7 +8,7 @@ I am a **full-stack web developer** with a strong focus on building **scalable, 
 - ⚡ Strong experience in **Laravel, React, Next.js, and API development**
 - 💡 Interested in **FinTech, SaaS platforms, and AI products**
 - 🎯 Goal: Build impactful products that help businesses scale
-- 🌱 Active contributor to Livewire, Laravel, and open-source packages
+- 🌱 Active contributor to **Livewire, Laravel, and open-source packages**
 ---
 
 ## 🛠 Tech Stack
