@@ -2,8 +2,6 @@
 
 I am a **full-stack web developer** with a strong focus on building **scalable, high-performance applications**. I have extensive experience in **Laravel, React, Next.js, and API development**, and I thrive on solving complex technical challenges.  
 
-Passionate about **FinTech, SaaS platforms, and AI-driven products**, I combine clean, maintainable code with modern DevOps practices to deliver robust solutions. My goal is to **create impactful products that help businesses grow and scale efficiently**.
-
 ---
 
 ## 🧑‍💻 About Me
@@ -23,10 +21,14 @@ Passionate about **FinTech, SaaS platforms, and AI-driven products**, I combine 
 **Tools & DevOps**  
 - Docker, GitHub Actions
 - Nginx, Apache, Linux Servers, Redis, Memcached  
-- AWS (EC2, S3, RDS), DigitalOcean, Cloudflare   
+- AWS (EC2, S3, RDS), DigitalOcean, Cloudflare
+- Laravel Forge, cPanel, aaPanel, etc.
 
 **Others**  
 - REST APIs, WebSockets, Payment Gateway Integrations, SSL/TLS, Caching & Load Balancing
+- Follows **best coding and architectural practices**  
+- Strong **problem-solving skills**  
+- Highly **self-motivated and continuous learner**
 
 ---
 
