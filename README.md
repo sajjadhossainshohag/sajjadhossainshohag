@@ -33,13 +33,9 @@ I am a **full-stack web developer** with a strong focus on building **scalable, 
 
 ---
 
-## 📊 GitHub Highlights
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadhossainshohag&layout=compact&theme=tokyonight)
-
----
-
 ## 🌍 Connect With Me
-- LinkedIn: [Visit My Profile](https://linkedin.com/in/sajjadhossainshohag)  
+- LinkedIn: [Visit](https://linkedin.com/in/sajjadhossainshohag)
+- Twitter: [Visit](https://x.com/sajjadshohagbd)
 
 ---
 
