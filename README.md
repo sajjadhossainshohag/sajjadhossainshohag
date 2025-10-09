@@ -1,6 +1,6 @@
 # Hey, I'm Sajjad Hossain Shohag
 
-I am a **Software Engineer** with a strong focus on building **scalable, high-performance applications**. I have strong experience in **PHP, Laravel, React, Next.js, and API development**, and thrive on solving complex technical challenges.  
+I’m a **Software Engineer** passionate about building scalable, high-performance applications.  I enjoy solving challenging technical problems, and have solid experience with **PHP, Laravel, React, Next.js, and API development**. 
 
 ---
 
@@ -14,7 +14,7 @@ I am a **Software Engineer** with a strong focus on building **scalable, high-pe
 ## 🛠 Tech Stack
 
 **Languages & Frameworks**  
-- PHP (Laravel), JavaScript (React, Next.js), Livewire, AlpineJs
+- PHP (Laravel), JavaScript (React, Next.js), Livewire, AlpineJS
 
 **Databases**  
 - MySQL, PostgreSQL, SQLite  
