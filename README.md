@@ -1,6 +1,6 @@
 # Hey, I'm Sajjad Hossain Shohag
 
-I’m a **Software Engineer** passionate about building scalable, high-performance applications.  I enjoy solving challenging technical problems, and have solid experience with **PHP, Laravel, React, Next.js, and API development**. 
+I’m a **Software Engineer** passionate about building scalable, high-performance applications.  I enjoy solving challenging technical problems, and have solid experience with **PHP, Laravel, React, Next.js, and API development**. I deal with maintainability, performance, and clean architecture as a **Code reviewer and Open Source Contributor**.  I enjoy transforming concepts into useful, production-ready solutions.
 
 ---
 
