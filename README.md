@@ -42,6 +42,6 @@ I’m a **Software Engineer** passionate about building scalable, high-performan
 
 ## 🌍 Connect With Me
 - LinkedIn: [Visit](https://linkedin.com/in/sajjadhossainshohag)
-- Twitter: [Visit](https://x.com/sajjadshohagbd)
+- Twitter: [Visit](https://x.com/sajjadhshohag)
 
 ---
